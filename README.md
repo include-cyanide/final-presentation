@@ -1,5 +1,8 @@
 # final-presentation
 
+# 第一次錄影
+- [第一次影片](https://drive.google.com/file/d/1Gz5vFHu_uLEttLqDWFu28WlunHMLCg6I/view?usp=sharing)
+
 # 問題
 
 ## GPT 改進建議
