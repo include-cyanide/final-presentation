@@ -1,7 +1,14 @@
 # final-presentation
 
+# 我們的簡報
+- [簡報](https://docs.google.com/presentation/d/1wvh-DmrOGys18R4rcZVq60cQsfx7G6JfBUT9D2pDuBc/edit#slide=id.g330ff2dd639_0_221)
+
+
 # 第一次錄影
 - [第一次影片](https://drive.google.com/file/d/1Gz5vFHu_uLEttLqDWFu28WlunHMLCg6I/view?usp=sharing)
+    - 沒有剪報畫面
+- 第二次影片
+    - [第一段](https://youtu.be/T_L9oGXCnFA)
 
 # 問題
 ## GPT 改進建議
