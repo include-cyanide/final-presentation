@@ -56,7 +56,7 @@ https://github.com/include-cyanide/final-presentation/blob/main/%E7%B0%A1%E5%A0%
 - 重新定義問題
 - 發想故事
 - 加入效能指標(傳輸性, 精確性, 拓展性)
-- 透過交䐳指標和其他產品比較
+- 透過效能指標和其他產品比較
 
 ---
 
